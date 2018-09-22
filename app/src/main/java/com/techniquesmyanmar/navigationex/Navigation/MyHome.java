@@ -9,6 +9,8 @@ public class MyHome {
 
 String a="hello";
 
+int aa=10;
+
     String b="hello b";
 
 }
