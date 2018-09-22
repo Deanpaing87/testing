@@ -6,6 +6,9 @@ package com.techniquesmyanmar.navigationex.Navigation;
 
 public class MyHome {
 
+
+String a="hello";
+
     String b="hello b";
 
 }
