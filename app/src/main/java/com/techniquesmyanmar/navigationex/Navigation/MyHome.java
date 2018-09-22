@@ -5,4 +5,7 @@ package com.techniquesmyanmar.navigationex.Navigation;
  */
 
 public class MyHome {
+
+    String b="hello b";
+
 }
